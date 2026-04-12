@@ -47,9 +47,9 @@ Dev Tools      Git · Docker · Linux · VS Code
 
 ## Background
 
- **Aerospace Engineering** — [Your university here]
- Certifications / courses in [add relevant ones]
- Experience in [add relevant roles or projects]
+ **Aerospace Engineering** — [BSc ETSIAE (UPM), MSc ETSII (UPV)
+ Experience in software development for aerospace engineering simulations (jet engine performance, and turbulence study with DNS).
+ Personal developments focused on algorythmic trading and finance analysis.
 
 ---
 
