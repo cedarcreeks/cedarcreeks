@@ -50,7 +50,7 @@ My professional background is in jet engine performance simulation, virtual envi
 ## Currently
 
 - Developing [Thalos](https://github.com/cedarcreeks/thalos), an automated US equities trading system
-- Exploring cross-platform deployment across Windows, macOS, and mobile
+- Exploring cross-platform deployment across Linux, Windows, macOS, and mobile
 - Researching AI-augmented engineering workflows
 
 &nbsp;
