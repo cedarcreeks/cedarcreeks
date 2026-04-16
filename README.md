@@ -18,7 +18,7 @@ Madrid, Spain
 
 Aerospace engineer by training, software developer by obsession. I work across domains that share the same DNA: physical modelling, data-driven decisions, and systems that run unattended.
 
-My professional background is in jet engine performance simulation and Linux platform development. On my own time, I build algorithmic trading systems and automation tools — anything that benefits from rigour and code.
+My professional background is in jet engine performance simulation, virtual environment development, and Linux platform engineering. On my own time, I build algorithmic trading systems and automation tools — anything that benefits from rigour and code.
 
 **Education**
 - BSc Aerospace Engineering — ETSIAE, Universidad Politécnica de Madrid
@@ -28,7 +28,7 @@ My professional background is in jet engine performance simulation and Linux pla
 
 ## What I work on
 
-**Aerospace & Simulation** — Jet engine performance modelling, DNS turbulence studies, Linux platform development. Tools built with X-Plane SDK, OpenFlight, and SimConnect.
+**Aerospace & Simulation** — Jet engine performance modelling, virtual environments for training and simulation, DNS turbulence studies, Linux platform development.
 
 **Quantitative Finance** — End-to-end trading pipelines: market screening, relative strength ranking, automated execution, risk management, and walk-forward backtesting.
 
