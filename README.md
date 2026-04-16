@@ -1,71 +1,85 @@
 <div align="center">
 
-# Hi, I'm Marcos
+### Marcos Piedrabuena
 
-**Aerospace Engineer** · Spain 🇪🇸
-
-*"Everything is codeable."*
-
-[![GitHub followers](https://img.shields.io/github/followers/cedarcreeks?style=flat-square&color=0d1117&labelColor=30363d)](https://github.com/cedarcreeks)
+**Aerospace Engineer** · Quantitative Developer · Spain
 
 </div>
 
----
+&nbsp;
 
-## About me
+## `> whoami`
 
-I'm an aerospace engineer with a broad curiosity that refuses to stay in its lane. My work sits at the intersection of engineering rigour and software — from flight dynamics simulations to financial modelling and media tooling. If something can be automated, visualised, or simulated, I'll find a way to code it.
-
--  **Aerospace** — flight simulations, trajectory modelling, virtual environments
--  **Finance** — quantitative tools, data pipelines, market analysis
--  **Media** — automation, content tooling, creative tech
--  Based in **Spain**, building in public
-
----
-
-## What I work on
-
-| Domain | Focus |
-|---|---|
-| Aerospace & Simulation | Flight dynamics, environment modelling, real-time sims |
-| Virtual Environments | 3D/digital twin pipelines, physics-based rendering |
-| Finance & Data | Quantitative tools, financial data processing |
-| Media & Automation | Scripting, content automation, media tooling |
-
----
-
-## Tech & Tools
+Aerospace engineer who writes code for a living and for fun. I build systems that sit at the intersection of physics, data, and automation — from jet engine simulations to algorithmic trading pipelines. If it can be modelled, optimised, or automated, I'll find a way.
 
 ```
-Languages      Python · MATLAB · C++ · JavaScript
-Simulation     X-Plane SDK · OpenFlight · SimConnect
-Data & Finance  NumPy · Pandas · Matplotlib · SQL
-Dev Tools      Git · Docker · Linux · VS Code
+BSc  Aerospace Engineering    ETSIAE · Universidad Politécnica de Madrid
+MSc  Industrial Engineering   ETSII  · Universitat Politècnica de València
 ```
 
----
+&nbsp;
 
-## Background
+## `> cat domains.txt`
 
- **Aerospace Engineering** — [BSc ETSIAE (UPM), MSc ETSII (UPV)
- Experience in software development for aerospace engineering simulations (jet engine performance, and turbulence study with DNS).
- Personal developments focused on algorythmic trading and finance analysis.
+```
+AEROSPACE          Flight dynamics · Jet engine performance · DNS turbulence
+                   X-Plane SDK · OpenFlight · SimConnect
 
----
+QUANTITATIVE       Algorithmic trading systems · Walk-forward backtesting
+FINANCE            Position sizing · Risk management · Market data pipelines
 
-## Currently exploring
+SIMULATION &       Physics-based rendering · Digital twins
+VIRTUAL ENV        Real-time simulation architectures
 
--  Aerospace simulation pipelines
--  Algorithmic finance tools
--  AI-assisted media workflows
+MEDIA &            Content automation · AI-assisted workflows
+AUTOMATION         Scripting & tooling
+```
 
----
+&nbsp;
+
+## `> ls tech/`
+
+```
+languages/         python    matlab    c++    javascript
+data/              numpy     pandas    matplotlib    sql
+simulation/        xplane    openflight    simconnect
+infrastructure/    git    docker    linux    fastapi    cloudflare
+```
+
+&nbsp;
+
+## `> ps aux | grep active`
+
+```
+PID   PROJECT                 STATUS       DESCRIPTION
+001   thalos                  running      Automated US equities trading pipeline
+                                           Finviz → RS Rating → Alpaca → Telegram/PWA
+002   aerospace-sim           ongoing      Flight dynamics & engine performance tools
+003   media-tools             exploring    AI-assisted content automation
+```
+
+&nbsp;
+
+## `> uptime`
+
+```
+Currently exploring:
+  · Walk-forward optimisation for systematic trading strategies
+  · Cross-platform deployment (Windows / macOS ARM / Termux Android)
+  · Real-time aerospace simulation pipelines
+  · AI-augmented engineering workflows
+```
+
+&nbsp;
 
 <div align="center">
 
+&mdash;
+
 *Open to collaborations at the edge of engineering and code.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-ea4335?style=flat-square&logo=gmail)](mailto:)
+&nbsp;
+
+[![GitHub](https://img.shields.io/badge/GitHub-cedarcreeks-181717?style=flat-square&logo=github)](https://github.com/cedarcreeks)
 
 </div>
