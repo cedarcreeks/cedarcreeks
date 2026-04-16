@@ -1,71 +1,66 @@
 <div align="center">
 
-# Hi, I'm Marcos
+# Marcos Piedrabuena
 
-**Aerospace Engineer** · Spain 🇪🇸
+**Aerospace Engineer · Quantitative Developer**
 
-*"Everything is codeable."*
+Madrid, Spain
 
-[![GitHub followers](https://img.shields.io/github/followers/cedarcreeks?style=flat-square&color=0d1117&labelColor=30363d)](https://github.com/cedarcreeks)
+&nbsp;
+
+*Building things that fly, trade, and automate.*
 
 </div>
 
----
+&nbsp;
 
-## About me
+## About
 
-I'm an aerospace engineer with a broad curiosity that refuses to stay in its lane. My work sits at the intersection of engineering rigour and software — from flight dynamics simulations to financial modelling and media tooling. If something can be automated, visualised, or simulated, I'll find a way to code it.
+Aerospace engineer by training, software developer by obsession. I work across domains that share the same DNA: physical modelling, data-driven decisions, and systems that run unattended.
 
--  **Aerospace** — flight simulations, trajectory modelling, virtual environments
--  **Finance** — quantitative tools, data pipelines, market analysis
--  **Media** — automation, content tooling, creative tech
--  Based in **Spain**, building in public
+My professional background is in flight dynamics simulations and jet engine performance. On my own time, I build algorithmic trading systems and automation tools — anything that benefits from rigour and code.
 
----
+**Education**
+- BSc Aerospace Engineering — ETSIAE, Universidad Politécnica de Madrid
+- MSc Industrial Engineering — ETSII, Universitat Politècnica de València
+
+&nbsp;
 
 ## What I work on
 
-| Domain | Focus |
+**Aerospace & Simulation** — Flight dynamics, jet engine performance modelling, DNS turbulence studies. Tools built with X-Plane SDK, OpenFlight, and SimConnect.
+
+**Quantitative Finance** — End-to-end trading pipelines: market screening, relative strength ranking, automated execution, risk management, and walk-forward backtesting.
+
+**Automation & Media** — Content tooling, AI-assisted workflows, and anything that removes repetitive work from the equation.
+
+&nbsp;
+
+## Tech
+
+| | |
 |---|---|
-| Aerospace & Simulation | Flight dynamics, environment modelling, real-time sims |
-| Virtual Environments | 3D/digital twin pipelines, physics-based rendering |
-| Finance & Data | Quantitative tools, financial data processing |
-| Media & Automation | Scripting, content automation, media tooling |
+| **Languages** | Python · MATLAB · C++ · JavaScript |
+| **Data** | NumPy · Pandas · Matplotlib · SQL |
+| **Simulation** | X-Plane SDK · OpenFlight · SimConnect |
+| **Infrastructure** | Git · Docker · Linux · FastAPI · Cloudflare |
 
----
+&nbsp;
 
-## Tech & Tools
+## Currently
 
-```
-Languages      Python · MATLAB · C++ · JavaScript
-Simulation     X-Plane SDK · OpenFlight · SimConnect
-Data & Finance  NumPy · Pandas · Matplotlib · SQL
-Dev Tools      Git · Docker · Linux · VS Code
-```
+- Developing [Thalos](https://github.com/cedarcreeks/thalos), an automated US equities trading system
+- Exploring cross-platform deployment across Windows, macOS, and mobile
+- Researching AI-augmented engineering workflows
 
----
-
-## Background
-
- **Aerospace Engineering** — [BSc ETSIAE (UPM), MSc ETSII (UPV)
- Experience in software development for aerospace engineering simulations (jet engine performance, and turbulence study with DNS).
- Personal developments focused on algorythmic trading and finance analysis.
-
----
-
-## Currently exploring
-
--  Aerospace simulation pipelines
--  Algorithmic finance tools
--  AI-assisted media workflows
-
----
+&nbsp;
 
 <div align="center">
 
-*Open to collaborations at the edge of engineering and code.*
+Open to collaborations at the intersection of engineering and software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-ea4335?style=flat-square&logo=gmail)](mailto:)
+&nbsp;
+
+[LinkedIn](https://linkedin.com/in/) · [Email](mailto:mpiedrabuenamunoz@gmail.com)
 
 </div>
