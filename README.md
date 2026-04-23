@@ -16,7 +16,7 @@ Madrid, Spain
 
 ## About
 
-Aerospace engineer by training, software developer by obsession. I work across domains that share the same DNA: physical modelling, data-driven decisions, and systems that run unattended.
+Aerospace engineer by training, software developer by passion. I work across domains that share the same DNA: physical modelling, data-driven decisions, and systems that run unattended.
 
 My professional background is in jet engine performance simulation, virtual environment development, and Linux platform engineering. On my own time, I build algorithmic trading systems and automation tools — anything that benefits from rigour and code.
 
