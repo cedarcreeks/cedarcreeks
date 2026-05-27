@@ -22,7 +22,7 @@ My professional background is in jet engine performance simulation, virtual envi
 
 **Education**
 - BSc Aerospace Engineering — ETSIAE, Universidad Politécnica de Madrid
-- MSc Industrial Engineering — ETSII, Universitat Politècnica de València
+- MSc Industrial Engineering — ETSIADI, Universitat Politècnica de València
 
 &nbsp;
 
