@@ -26,7 +26,7 @@ My professional background is in jet engine performance simulation, virtual envi
 
 ## What I work on
 
-**CFD & Aerodynamic Optimization** — Surrogate-based optimization loops that couple CFD solvers with metamodels (Kriging, RBF) to reduce computational cost. Interested in closing the full redesign cycle: geometry parametrization, automated meshing, CFD evaluation, and surrogate-guided search with tools like SMT, SU2, and OpenFOAM.
+**CFD & Aerodynamic Optimization** — Surrogate-based optimization loops that couple CFD solvers with metamodels (Kriging, RBF) to reduce computational cost. Interested in closing the full redesign cycle: geometry parametrization, automated meshing, CFD evaluation, and surrogate-guided search with tools like SMT, SU2, OpenFOAM, and ANSYS Fluent. Increasingly using PyFluent to script and automate Fluent sessions programmatically, enabling tight integration between the solver and Python-based optimization frameworks.
 
 **Aerospace & Simulation** — Jet engine performance modelling, virtual environments for training and simulation, DNS turbulence studies, Linux platform development.
 
@@ -43,7 +43,7 @@ My professional background is in jet engine performance simulation, virtual envi
 | **Languages** | Python · MATLAB · C++ · JavaScript |
 | **Data** | NumPy · Pandas · Matplotlib · SQL |
 | **Optimization** | SMT · SciPy · EGO / Bayesian Optimization · Latin Hypercube Sampling |
-| **CFD & Simulation** | SU2 · OpenFOAM · X-Plane SDK · OpenFlight · SimConnect |
+| **CFD & Simulation** | ANSYS Fluent · PyFluent · SU2 · OpenFOAM · X-Plane SDK · OpenFlight · SimConnect |
 | **Infrastructure** | Linux · Git · Docker · FastAPI · Cloudflare |
 
 &nbsp;
