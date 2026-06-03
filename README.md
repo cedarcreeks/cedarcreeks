@@ -1,9 +1,7 @@
 <div align="center">
 
 # Marcos Piedrabuena
-
 **Aerospace Engineer · Quantitative Developer**
-
 Madrid, Spain
 
 &nbsp;
@@ -16,7 +14,7 @@ Madrid, Spain
 
 ## About
 
-Aerospace engineer by training, software developer by passion. I work across domains that share the same DNA: physical modelling, data-driven decisions, and systems that run unattended, keen on working on autonomous systems in simulated or real environments.
+Aerospace engineer by training, software developer by passion. I work across domains that share the same DNA: physical modelling, data-driven decisions, and systems that run unattended — keen on working on autonomous systems in simulated or real environments.
 
 My professional background is in jet engine performance simulation, virtual environment development, and Linux platform engineering. On my own time, I build algorithmic trading systems and automation tools — anything that benefits from rigour and code.
 
@@ -27,6 +25,8 @@ My professional background is in jet engine performance simulation, virtual envi
 &nbsp;
 
 ## What I work on
+
+**CFD & Aerodynamic Optimization** — Surrogate-based optimization loops that couple CFD solvers with metamodels (Kriging, RBF) to reduce computational cost. Interested in closing the full redesign cycle: geometry parametrization, automated meshing, CFD evaluation, and surrogate-guided search with tools like SMT, SU2, and OpenFOAM.
 
 **Aerospace & Simulation** — Jet engine performance modelling, virtual environments for training and simulation, DNS turbulence studies, Linux platform development.
 
@@ -42,7 +42,8 @@ My professional background is in jet engine performance simulation, virtual envi
 |---|---|
 | **Languages** | Python · MATLAB · C++ · JavaScript |
 | **Data** | NumPy · Pandas · Matplotlib · SQL |
-| **Simulation** | X-Plane SDK · OpenFlight · SimConnect |
+| **Optimization** | SMT · SciPy · EGO / Bayesian Optimization · Latin Hypercube Sampling |
+| **CFD & Simulation** | SU2 · OpenFOAM · X-Plane SDK · OpenFlight · SimConnect |
 | **Infrastructure** | Linux · Git · Docker · FastAPI · Cloudflare |
 
 &nbsp;
@@ -50,6 +51,7 @@ My professional background is in jet engine performance simulation, virtual envi
 ## Currently
 
 - Developing [Thalos](https://github.com/cedarcreeks/thalos), an automated US equities trading system
+- Building surrogate-based optimization pipelines for aerodynamic shape design
 - Exploring cross-platform deployment across Linux, Windows, macOS, and mobile
 - Researching AI-augmented engineering workflows
 
